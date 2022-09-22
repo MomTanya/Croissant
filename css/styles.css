@@ -2,8 +2,10 @@ body {
     background: yellowgreen;
 }
 h1 {
-    text-align: center;
     color: brown;
+}
+h1, h4 {
+    text-align: center;
 }
 a {
     text-align: center;
